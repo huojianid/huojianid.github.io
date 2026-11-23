@@ -52,4 +52,4 @@ App Store 的内容是分地区的。同一个应用，美区上架了、国区�
 
 搜索「小火箭账号共享」的人，往往是想解决第一个问题（拿到能装应用的美区 ID）；而实际影响使用体验的，往往是第二个问题（节点是否可用）。两个概念不要混。
 
-需要进一步了解的话，可以看看[小火箭下载完整流程](https://idxiaohuojian.github.io/download-shadowrocket/)和[共享账号评估六维度](https://idxiaohuojian.github.io/shared-account-review/)，或者在[全部文章列表](https://idxiaohuojian.github.io/articles/)里按主题浏览。
+需要进一步了解的话，可以看看[小火箭下载完整流程](https://huojianid.github.io/download-shadowrocket/)和[共享账号评估六维度](https://huojianid.github.io/shared-account-review/)，或者在[全部文章列表](https://huojianid.github.io/articles/)里按主题浏览。

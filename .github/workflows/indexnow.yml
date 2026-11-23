@@ -18,7 +18,7 @@ jobs:
       - name: Build URL list (today only)
         id: urls
         env:
-          BASE_URL: https://idxiaohuojian.github.io
+          BASE_URL: https://huojianid.github.io
           GITHUB_EVENT_NAME: ${{ github.event_name }}
         run: |
           python3 build_urls.py
@@ -29,7 +29,7 @@ jobs:
       - name: Submit URLs to IndexNow
         env:
           INDEXNOW_KEY: h6Dbj7YTu4rRG6xjPcHaVAGxX7d76aKJ
-          BASE_URL: https://idxiaohuojian.github.io
+          BASE_URL: https://huojianid.github.io
         run: |
           URL_COUNT=$(python3 -c "import json; print(len(json.load(open('/tmp/url_list.json'))))")
           if [ "$URL_COUNT" -eq 0 ]; then

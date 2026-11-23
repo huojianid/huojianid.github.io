@@ -31,13 +31,13 @@
 
 ## 📌 关于本站
 
-[本站](https://idxiaohuojian.github.io/) 建立的原因很直接：关于"小火箭账号"这个主题，网上的信息分布太散了。一部分内容在讨论 App 本身怎么用，一部分在卖账号，一部分在讲 Apple ID 注册流程，还有的干脆是在互相打广告。一个真正想解决问题的人，往往要打开七八个标签页才能拼出一个完整答案。
+[本站](https://huojianid.github.io/) 建立的原因很直接：关于"小火箭账号"这个主题，网上的信息分布太散了。一部分内容在讨论 App 本身怎么用，一部分在卖账号，一部分在讲 Apple ID 注册流程，还有的干脆是在互相打广告。一个真正想解决问题的人，往往要打开七八个标签页才能拼出一个完整答案。
 
 本站想覆盖的就是这条完整路径上的关键环节：Shadowrocket 是什么、它为什么和 App Store 地区绑定、小火箭共享账号与小火箭独享账号的区别、"小火箭苹果 ID"这个习惯说法背后的真实含义，以及下载与安装过程中最常见的卡点。换句话说，这里整理的是"从想装到装好"的全过程，而不是单一环节的教程。
 
 适合的人群大致有四种：第一次准备下载 Shadowrocket 的 iPhone 用户，想搞清共享账号和独享账号到底差在哪的人，需要了解 Apple 美区 ID 与 App Store 地区关系的人，以及关心账号安全问题、不想随便把凭证交给别人的谨慎用户。
 
-内容全部为原创整理，关键词按中文阅读习惯自然嵌入，不做无意义的堆砌。你可以在顶部导航直接进入对应主题，也可以阅读下方 [Shadowrocket 下载说明](https://idxiaohuojian.github.io/download-shadowrocket/) 和 [小火箭共享账号网站](https://idxiaohuojian.github.io/shared-account-review/) 两篇专题，作为入门的两个抓手。
+内容全部为原创整理，关键词按中文阅读习惯自然嵌入，不做无意义的堆砌。你可以在顶部导航直接进入对应主题，也可以阅读下方 [Shadowrocket 下载说明](https://huojianid.github.io/download-shadowrocket/) 和 [小火箭共享账号网站](https://huojianid.github.io/shared-account-review/) 两篇专题，作为入门的两个抓手。
 
 ---
 
@@ -45,17 +45,17 @@
 
 这一站被访问最多的几个方向，对应着不同阶段的需求。按出现频率排，大致是这样：
 
-**[Shadowrocket 下载](https://idxiaohuojian.github.io/download-shadowrocket/)** —— 最基础的入口需求。绝大多数人第一次来，都是为了搞清楚怎么把应用装上。
+**[Shadowrocket 下载](https://huojianid.github.io/download-shadowrocket/)** —— 最基础的入口需求。绝大多数人第一次来，都是为了搞清楚怎么把应用装上。
 
-**[小火箭共享账号](https://idxiaohuojian.github.io/shared-account-review/)** —— 不想自己注册美区 ID、只想快速完成一次下载的人，通常会从这里开始看。
+**[小火箭共享账号](https://huojianid.github.io/shared-account-review/)** —— 不想自己注册美区 ID、只想快速完成一次下载的人，通常会从这里开始看。
 
-**[Shadowrocket 共享账号与小火箭共享 ID](https://idxiaohuojian.github.io/shadowrocket-account-detail/)** —— 这两个词经常被混着用，但实际指向的东西不一样，搞混了容易走弯路。
+**[Shadowrocket 共享账号与小火箭共享 ID](https://huojianid.github.io/shadowrocket-account-detail/)** —— 这两个词经常被混着用，但实际指向的东西不一样，搞混了容易走弯路。
 
 [小火箭独享账号](#-小火箭独享账号) —— 准备长期使用、不想依赖他人账号的人关注的方向。
 
 [Apple 美区 ID](#-apple-美区-id) —— 关心 App Store 地区与账户注册流程的人。
 
-这几个主题在后续章节里会逐一说透，先放这里方便直接跳转。更多文章见 [全部文章列表](https://idxiaohuojian.github.io/articles/)。
+这几个主题在后续章节里会逐一说透，先放这里方便直接跳转。更多文章见 [全部文章列表](https://huojianid.github.io/articles/)。
 
 ---
 
@@ -71,7 +71,7 @@ Shadowrocket 是一款面向 iOS 的代理类应用，在中国用户群体里�
 
 设备方面，Shadowrocket 支持 iPhone 与 iPad，要求较新的 iOS 系统版本。下载之前确认一下设备系统，能少踩不少坑。如果你遇到的是"安装完成但连不上"，那通常不是下载环节的问题，而是节点配置的问题，和 Apple ID 无关。
 
-更多下载细节见 [Shadowrocket 下载说明](https://idxiaohuojian.github.io/download-shadowrocket/)。
+更多下载细节见 [Shadowrocket 下载说明](https://huojianid.github.io/download-shadowrocket/)。
 
 ---
 
@@ -87,7 +87,7 @@ Shadowrocket 是一款面向 iOS 的代理类应用，在中国用户群体里�
 
 需要特别提醒的是，Shadowrocket 下载只是开始。应用装好了不代表能用，节点是否可用、规则是否配置正确，才是决定体验的关键。所以如果你搜的是"小火箭下载教程"，实际期望的往往是"装好之后怎么顺利用起来"，而不只是拿一个安装包。建议下载完成后跟着完整流程走一遍，别在"安装成功"那一步停下。
 
-完整步骤和异常处理，可以参考 [Shadowrocket 下载说明](https://idxiaohuojian.github.io/download-shadowrocket/)，那里按前置条件、下载操作、首次授权、节点配置四个环节拆开讲了，适合零基础照着做。
+完整步骤和异常处理，可以参考 [Shadowrocket 下载说明](https://huojianid.github.io/download-shadowrocket/)，那里按前置条件、下载操作、首次授权、节点配置四个环节拆开讲了，适合零基础照着做。
 
 ---
 
@@ -115,7 +115,7 @@ Shadowrocket 是一款面向 iOS 的代理类应用，在中国用户群体里�
 
 小火箭共享账号适合什么情况？比较适合只需要一次性完成下载、之后不太频繁更新的用户。你临时登录一个共享账号，下载完应用，退出，整个过程几分钟就能结束。对于长期使用者，这种模式的问题在于：账号不是你控制的，对方随时可能改密码、解绑设备，导致你的应用更新中断。
 
-判断一个共享账号来源靠不靠谱，有几个基本维度：是否声称需要你的密码或验证码（正常共享不需要你提供这些，需要的话基本可以直接放弃）、是否长期维护、有没有明确的失效说明、有没有真实用户反馈。这些维度在 [小火箭共享账号网站](https://idxiaohuojian.github.io/shared-account-review/) 里有展开，可以作为评估参考。
+判断一个共享账号来源靠不靠谱，有几个基本维度：是否声称需要你的密码或验证码（正常共享不需要你提供这些，需要的话基本可以直接放弃）、是否长期维护、有没有明确的失效说明、有没有真实用户反馈。这些维度在 [小火箭共享账号网站](https://huojianid.github.io/shared-account-review/) 里有展开，可以作为评估参考。
 
 还有一个容易混淆的点：小火箭共享账号和 Shadowrocket 共享账号并不是同一件事。前者是 Apple 账户层面的共享，解决下载权限；后者通常指应用内节点或配置的共享，解决连接配置。两者解决的是不同环节的问题，混着用容易出问题。
 
@@ -133,7 +133,7 @@ Shadowrocket 共享账号指的是通过共用 Apple ID 来下载 Shadowrocket �
 
 这两个概念经常被混用，是因为搜索时用户自己也没分清楚。搜"Shadowrocket 共享 ID"的人，可能想的是共享账号（下载问题），也可能想的是共享节点（连接问题）。实际操作中建议明确区分：如果你要的是"能下载应用"，那是共享账号的事；如果你要的是"能直接连上的配置"，那是共享节点的事。
 
-[Shadowrocket 共享账号与小火箭共享 ID](https://idxiaohuojian.github.io/shadowrocket-account-detail/) 这一篇把两者的边界和适用场景说得更细，特别是关于哪些情况下可以临时共享、哪些情况下不建议共享，值得参考。
+[Shadowrocket 共享账号与小火箭共享 ID](https://huojianid.github.io/shadowrocket-account-detail/) 这一篇把两者的边界和适用场景说得更细，特别是关于哪些情况下可以临时共享、哪些情况下不建议共享，值得参考。
 
 理解这两个词的区别，能帮你避免一个常见的坑：以为拿到了共享账号就能直接上网。实际上账号只解决了"装应用"，节点还是要自己配。
 
@@ -183,7 +183,7 @@ Apple 美区 ID 是注册地区为美国的 Apple 账户，支持访问美国 Ap
 
 关注账户安全的人：无论哪种方案，都要守住"不提供密码、验证码、恢复密钥"这条线。搜索"小火箭账号安全吗"时，如果看到声称"无限共享"或"免费完整账号"的信息，直接提高警惕——这类说法通常伴随账号被盗或数据泄露的风险。
 
-更系统的账号类型对比，可以读 [小火箭共享账号网站](https://idxiaohuojian.github.io/shared-account-review/) 里的评估维度，按自己的情况对照。
+更系统的账号类型对比，可以读 [小火箭共享账号网站](https://huojianid.github.io/shared-account-review/) 里的评估维度，按自己的情况对照。
 
 ---
 
@@ -195,7 +195,7 @@ Apple 美区 ID 是注册地区为美国的 Apple 账户，支持访问美国 Ap
 
 **第二步：Apple ID。** 如果搜不到，就需要一个美区 Apple ID。可以自己注册（Apple 美区 ID 那节有说明），也可以临时借用共享账号完成下载。两种方式的成本和风险都不一样，按自己的接受度选。
 
-**第三步：共享账号判断。** 如果你决定用共享账号，先在 [小火箭共享账号网站](https://idxiaohuojian.github.io/shared-account-review/) 对照评估维度，确认来源是否可信，再操作。
+**第三步：共享账号判断。** 如果你决定用共享账号，先在 [小火箭共享账号网站](https://huojianid.github.io/shared-account-review/) 对照评估维度，确认来源是否可信，再操作。
 
 **第四步：账号安全。** 无论选共享还是独享，都要读完 [账号安全](#-小火箭账号使用安全) 那节。特别是"不要提供密码和验证码"这条，是底线。
 
@@ -213,7 +213,7 @@ Apple 美区 ID 是注册地区为美国的 Apple 账户，支持访问美国 Ap
 
 应用装好之后，节点配置也要谨慎。不要使用来源不明的节点，如果你在使用中遇到连接异常，先检查 Apple ID 状态、设备网络、应用版本，再考虑换节点或账号。长期使用建议定期检查 Apple ID 的登录历史和安全通知，确认没有未知设备访问。
 
-关于"小火箭账号推荐""小火箭账号平台"这类搜索，很多结果指向第三方平台或非官方渠道。优先参考官方 App Store、Apple 官方支持文档，以及经过验证的内容站（如本站 [idxiaohuojian.github.io](https://idxiaohuojian.github.io/)）。想了解更多 Shadowrocket 使用细节，可以直接访问站内文章列表，或通过搜索定位对应教程。
+关于"小火箭账号推荐""小火箭账号平台"这类搜索，很多结果指向第三方平台或非官方渠道。优先参考官方 App Store、Apple 官方支持文档，以及经过验证的内容站（如本站 [huojianid.github.io](https://huojianid.github.io/)）。想了解更多 Shadowrocket 使用细节，可以直接访问站内文章列表，或通过搜索定位对应教程。
 
 ---
 
@@ -221,13 +221,13 @@ Apple 美区 ID 是注册地区为美国的 Apple 账户，支持访问美国 Ap
 
 如果你想按主题深入，下面三个专题是最常用的入口：
 
-**[Shadowrocket 下载说明](https://idxiaohuojian.github.io/download-shadowrocket/)** —— 涵盖 Apple ID 准备、App Store 搜索、首次授权、节点添加的完整流程。第一次装应用，先看这篇。
+**[Shadowrocket 下载说明](https://huojianid.github.io/download-shadowrocket/)** —— 涵盖 Apple ID 准备、App Store 搜索、首次授权、节点添加的完整流程。第一次装应用，先看这篇。
 
-**[小火箭共享账号网站](https://idxiaohuojian.github.io/shared-account-review/)** —— 评估维度展开，帮你判断一个共享账号来源是否值得信任。考虑用共享方案的人必读。
+**[小火箭共享账号网站](https://huojianid.github.io/shared-account-review/)** —— 评估维度展开，帮你判断一个共享账号来源是否值得信任。考虑用共享方案的人必读。
 
-**[Shadowrocket 共享账号与小火箭共享 ID](https://idxiaohuojian.github.io/shadowrocket-account-detail/)** —— 把两个容易混淆的概念拆清楚，解释各自解决什么问题、什么时候可以用。
+**[Shadowrocket 共享账号与小火箭共享 ID](https://huojianid.github.io/shadowrocket-account-detail/)** —— 把两个容易混淆的概念拆清楚，解释各自解决什么问题、什么时候可以用。
 
-更多分类内容在 [全部文章](https://idxiaohuojian.github.io/articles/) 里，可以直接按主题浏览。
+更多分类内容在 [全部文章](https://huojianid.github.io/articles/) 里，可以直接按主题浏览。
 
 ---
 
@@ -275,7 +275,7 @@ Apple 美区 ID 是注册地区为美国的 Apple 账户，支持访问美国 Ap
 和小火箭独享账号基本同义，强调账户专用于 Shadowrocket 的下载与更新。优势是下载渠道稳定、更新可控、节点配置自由，避免共享状态下的账户冲突。
 
 **Q8. 小火箭怎么下载？**
-先在 App Store 搜"Shadowrocket"，如果能搜到直接装；搜不到则需要解决 Apple ID 地区问题，通常需要一个美区 Apple ID 登录后再搜。完整流程见 [Shadowrocket 下载说明](https://idxiaohuojian.github.io/download-shadowrocket/)。
+先在 App Store 搜"Shadowrocket"，如果能搜到直接装；搜不到则需要解决 Apple ID 地区问题，通常需要一个美区 Apple ID 登录后再搜。完整流程见 [Shadowrocket 下载说明](https://huojianid.github.io/download-shadowrocket/)。
 
 **Q9. Shadowrocket 怎么下载？**
 和"小火箭怎么下载"是同一个问题的中英文版本，指向同一款应用。核心步骤一致：确认 Apple ID 能访问美区 → 登录 → 搜索 → 安装 → 首次授权 → 添加节点。
@@ -311,13 +311,13 @@ Apple 美区 ID 是注册地区为美国的 Apple 账户，支持访问美国 Ap
 核心用途是通过 App Store 下载 Shadowrocket 应用。应用装好后，节点配置和使用是另一回事，账号本身不提供代理服务。
 
 **Q20. 小火箭账号网站推荐哪里？**
-优先参考经过验证的内容站和官方文档。本站 [idxiaohuojian.github.io](https://idxiaohuojian.github.io/) 涵盖账号选择、下载教程、安全提醒与常见问题，适合系统阅读。
+优先参考经过验证的内容站和官方文档。本站 [huojianid.github.io](https://huojianid.github.io/) 涵盖账号选择、下载教程、安全提醒与常见问题，适合系统阅读。
 
 **Q21. Shadowrocket 下载教程适合新手吗？**
 适合。教程按步骤拆解，涵盖前置条件（Apple ID）、下载操作、安装授权、首次配置，避免直接跳到复杂节点设置。
 
 **Q22. 小火箭安装教程在哪里？**
-站内 [Shadowrocket 下载说明](https://idxiaohuojian.github.io/download-shadowrocket/) 就是完整的安装教程，涵盖从 Apple ID 准备到首次授权的每个环节。
+站内 [Shadowrocket 下载说明](https://huojianid.github.io/download-shadowrocket/) 就是完整的安装教程，涵盖从 Apple ID 准备到首次授权的每个环节。
 
 **Q23. 小火箭苹果 ID 需要支付吗？**
 注册时可以暂时跳过支付信息验证，但部分功能后续可能需要绑定有效支付方式。根据实际使用需求决定是否补充。
@@ -347,7 +347,7 @@ Apple 美区 ID 是注册地区为美国的 Apple 账户，支持访问美国 Ap
 安全性完全取决于使用方式。用独享账号、不交出密码、不登录陌生来源，安全性可控；用不明来源的共享账号、交出凭证，风险极高。
 
 **Q32. 小火箭共享账号怎么下载？**
-通过第三方获取共享 Apple ID，在 App Store 登录，搜索 Shadowrocket 并安装，完成后退出登录。但要注意来源可信度和账号安全，详见 [小火箭共享账号网站](https://idxiaohuojian.github.io/shared-account-review/)。
+通过第三方获取共享 Apple ID，在 App Store 登录，搜索 Shadowrocket 并安装，完成后退出登录。但要注意来源可信度和账号安全，详见 [小火箭共享账号网站](https://huojianid.github.io/shared-account-review/)。
 
 ---
 
@@ -365,4 +365,4 @@ Apple 美区 ID 是注册地区为美国的 Apple 账户，支持访问美国 Ap
 
 Apple ID 这块，记住三件事：美区 ID 是账户类型，小火箭苹果 ID 是使用场景描述；不要把主账户交给陌生人；美区 ID 和主 ID 分开管理。
 
-最后，本站 [idxiaohuojian.github.io](https://idxiaohuojian.github.io/) 与 Apple、Shadowrocket 官方均无合作关系，内容独立整理，账号安全建议仅供参考，具体操作请自行评估风险。更多专题和后续文章，可以访问 [全部文章列表](https://idxiaohuojian.github.io/articles/) 浏览，也可以回到 [小火箭账号首页](https://idxiaohuojian.github.io/) 重新导航。把 Shadowrocket 从"想装"到"稳定用"的路走通，关键不在找到某个神奇渠道，而在于搞清楚每个环节到底在解决什么问题。
+最后，本站 [huojianid.github.io](https://huojianid.github.io/) 与 Apple、Shadowrocket 官方均无合作关系，内容独立整理，账号安全建议仅供参考，具体操作请自行评估风险。更多专题和后续文章，可以访问 [全部文章列表](https://huojianid.github.io/articles/) 浏览，也可以回到 [小火箭账号首页](https://huojianid.github.io/) 重新导航。把 Shadowrocket 从"想装"到"稳定用"的路走通，关键不在找到某个神奇渠道，而在于搞清楚每个环节到底在解决什么问题。

@@ -57,4 +57,4 @@ Shadowrocket 在美区 App Store 的售价是 <strong>$2.99</strong>（美区 2.
 
 共享账号适合短期试用或预算有限的情况。长期使用、且设备上有大量个人数据（照片、通讯录、iCloud 同步）时，建议用自己注册的独享美区 Apple ID——因为共享账号登录后，同一账号的其他使用者理论上能触发账户级操作，虽然 Apple 有二次验证，但风险依然高于独享。
 
-你可以在[全部文章列表](https://idxiaohuojian.github.io/articles/)浏览更多内容，或者回到[小火箭账号首页](https://idxiaohuojian.github.io/)。
+你可以在[全部文章列表](https://huojianid.github.io/articles/)浏览更多内容，或者回到[小火箭账号首页](https://huojianid.github.io/)。

@@ -11,4 +11,4 @@ Allow: /assets/images/icon-192.png
 Allow: /assets/images/icon-512.png
 Allow: /assets/images/apple-touch-icon.png
 
-Sitemap: https://idxiaohuojian.github.io/sitemap.xml
+Sitemap: https://huojianid.github.io/sitemap.xml

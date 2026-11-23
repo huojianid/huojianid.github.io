@@ -50,4 +50,4 @@ Shadowrocket 主要在美区上架。如果你的账号不在美区，App Store 
 
 **更新中断**：如果用的是共享账号，对方改密码或解绑设备会导致应用无法更新。长期使用建议用自己注册的独享美区 ID。
 
-完整步骤之外，你也可以在[全部文章列表](https://idxiaohuojian.github.io/articles/)里按主题浏览其他内容，或者回到[小火箭账号首页](https://idxiaohuojian.github.io/)重新导航。
+完整步骤之外，你也可以在[全部文章列表](https://huojianid.github.io/articles/)里按主题浏览其他内容，或者回到[小火箭账号首页](https://huojianid.github.io/)重新导航。
