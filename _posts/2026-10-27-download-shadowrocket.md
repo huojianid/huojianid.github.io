@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Shadowrocket 下载说明：从 Apple ID 准备到首次授权的完整流程
+seo_title: Shadowrocket 下载教程｜美区 Apple ID 与安装步骤
 permalink: /download-shadowrocket/
 description: Shadowrocket（小火箭）下载完整说明：确认 Apple ID 地区、App Store 搜索、首次授权 VPN、添加节点的四步流程与常见卡点。
 date: 2026-10-27

@@ -1,9 +1,10 @@
 ---
 layout: default
-title: 小火箭账号_Shadowrocket账号_小火箭购买_小火箭共享账号
+title: 小火箭账号专题
 permalink: /xiaohuojian-account/
-description: 小火箭账号、Shadowrocket账号及小火箭购买服务，提供共享账号、独享账号等不同类型，覆盖小火箭账号价格、Apple ID下载、账号购买和使用等常见需求。
-keywords: 小火箭账号,Shadowrocket账号,小火箭购买,小火箭共享账号,小火箭账号购买,Shadowrocket账号购买,小火箭独享账号,小火箭账号价格,小火箭Apple ID,小火箭下载账号,小火箭账号出售,Shadowrocket账号出售,小火箭会员账号
+seo_title: 小火箭账号｜Shadowrocket 共享、独享账号与美区 ID
+description: 小火箭账号选购专题：共享账号和独享账号差在哪、各自什么价、风险怎么控制，美区 Apple ID 从哪来、只能用在哪些地方，以及下载后怎么配订阅。
+keywords: 小火箭账号,Shadowrocket账号,小火箭共享账号,小火箭独享账号,小火箭账号购买,小火箭购买,美区Apple ID,Shadowrocket下载账号
 ---
 
 <section class="page-hero">

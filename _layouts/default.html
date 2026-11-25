@@ -5,9 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#03343c">
 
-  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  {% assign seo_title = page.seo_title | default: page.title %}
+  <title>{% if seo_title %}{{ seo_title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+  {% assign seo_keywords = page.keywords %}
+  {% if seo_keywords == nil and page.tags %}{% assign seo_keywords = page.tags | join: ',' %}{% endif %}
+  {% if seo_keywords == nil %}{% assign seo_keywords = site.keywords %}{% endif %}
+  {% if seo_keywords %}<meta name="keywords" content="{{ seo_keywords }}">{% endif %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
 
@@ -19,7 +23,7 @@
 
   <!-- Open Graph -->
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:title" content="{{ seo_title | default: site.title }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
@@ -31,7 +35,7 @@
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:title" content="{{ seo_title | default: site.title }}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   {% if page.image %}{% assign og_img = page.image | replace: '.webp', '-thumb.webp' %}<meta name="twitter:image" content="{{ site.url }}{{ og_img }}">{% endif %}
 

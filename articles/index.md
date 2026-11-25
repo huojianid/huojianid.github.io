@@ -2,7 +2,9 @@
 layout: default
 title: 全部文章
 permalink: /articles/
-description: i小火箭 · Shadowrocket 使用与账号攻略全部文章
+seo_title: 小火箭文章列表｜Shadowrocket 教程与账号攻略全收录
+description: i小火箭全部文章按时间倒序排列：Shadowrocket 下载安装、订阅配置、共享与独享账号选购、常见报错排查，持续更新。
+keywords: 小火箭文章,Shadowrocket教程,小火箭攻略,Shadowrocket账号,i小火箭
 ---
 
 <section class="page-hero">

@@ -1,7 +1,8 @@
-title: i小火箭 · Shadowrocket 使用与账号攻略
+title: i小火箭
 url: "https://huojianid.github.io"
 baseurl: ""
-description: 小火箭（Shadowrocket）配置教程、账号选购与使用攻略的原创资讯站。
+description: 小火箭（Shadowrocket）中文教程站：美区 Apple ID 注册、App Store 下载安装、共享与独享账号选购、订阅节点配置与掉线排查，按步骤讲清楚。
+keywords: 小火箭,Shadowrocket,小火箭教程,小火箭下载,Shadowrocket下载,美区Apple ID,小火箭共享账号,Shadowrocket配置
 lang: zh-CN
 markdown: kramdown
 permalink: /articles/:name/
